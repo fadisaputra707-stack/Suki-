@@ -1,0 +1,6 @@
+{
+  "name": "DanaKu",
+  "description": "Aplikasi dompet digital & pengelola keuangan pribadi dengan pencatatan transaksi otomatis via deteksi pesan/notifikasi perbankan & e-wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
